@@ -67,7 +67,7 @@ npm -v
 
 1. Clona el repositorio y entra en la carpeta:
 ```bash
-git clone https://github.com/Jmurga16/inventario-web.git
+git clone https://github.com/josemurgadev/inventario-web.git
 cd inventario-web
 ```
 
