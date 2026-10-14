@@ -65,9 +65,10 @@ npm -v
 
 ## Instalación
 
-1. Navega a la carpeta del frontend:
+1. Clona el repositorio y entra en la carpeta:
 ```bash
-cd inventario-frontend
+git clone https://github.com/Jmurga16/inventario-web.git
+cd inventario-web
 ```
 
 2. Instala las dependencias:
